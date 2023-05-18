@@ -1,2 +1,1 @@
-# DS_portfolio
-Portfolio of Data Science projects 
+This Repo is part of a portfolio of Data Science projects 
