@@ -1,11 +1,4 @@
-# Welcome
-
-In this repository I upload stuff to showcase my portfolio of fun projects.
-
-It contains a mix of all kinds of projects, without any particular order of importance.
-
-
-# Andre Moreira's Data Science & Machine Learning Portfolio
+# Andre's Data Science & Machine Learning Portfolio
 Hello there! 👋 Welcome to my project portfolio. Here, you will find a curated selection of my data science, machine learning, and AI projects. With a background in theoretical physics and a passion for coding, I have ventured into the world of data to unlock insights, create predictive models, and offer sophisticated data analysis solutions. 
 
 [lyfX](lyfx.ai): we are launching a cutting-edge consulting service, blending scientific rigor with modern AI techniques.
@@ -32,7 +25,8 @@ Tools & Technologies: Python, Scikit-learn, Pandas, Matplotlib, etc.
 
 ### Pears
 
-Description: Example of a simple statistical analysis that I did for a agronomical trial. Powerful results.
+Description: Example of a simple statistical analysis that I did for a agronomical trial. 
+Simple and powerful results.
 
 Tools & Technologies: Python, Pandas, Matplotlib.
 
@@ -40,13 +34,15 @@ Tools & Technologies: Python, Pandas, Matplotlib.
 
 ### Soil_and_Yield
 
-Description: A project that delves into understanding the correlation between soil properties and agricultural yield. Utilized advanced statistical methods to draw meaningful conclusions.
+Description: A project that delves into understanding the correlation between soil properties and agricultural yield. 
+Utilized advanced statistical methods to draw meaningful conclusions.
 
 Tools & Technologies: Python, Pandas, Matplotlib, etc.
 
 🔗 [Project Link](https://github.com/andremoreira73/Project_portfolio/tree/86e95a781c7869bc471382318eea9c4a04bd75c4/Soil_and_Yield)
 
-<a href="https://github.com/andremoreira73/Project_portfolio/tree/86e95a781c7869bc471382318eea9c4a04bd75c4/Soil_and_Yield" target="_blank">Example Link</a>
+<a href="https://github.com/andremoreira73/Project_portfolio/tree/86e95a781c7869bc471382318eea9c4a04bd75c4/Soil_and_Yield" 
+ target="https://github.com/andremoreira73/Project_portfolio/tree/86e95a781c7869bc471382318eea9c4a04bd75c4/Soil_and_Yield">Example Link</a>
 
 ## 🛠 Tools & Tech Stack:
 
@@ -61,7 +57,6 @@ We are continually exploring, learning, and pushing the boundaries. Stay tuned f
 
 ## 🤝 Connect with Me:
 
-![image](https://github.com/andremoreira73/Project_portfolio/assets/59141684/fdd9a748-7467-4f09-9e9a-e0e24c77179f)
- [LinkedIn](https://www.linkedin.com/in/moreiraandre/)
+[LinkedIn](https://www.linkedin.com/in/moreiraandre/)
 
 📧 Email: [a.moreira@lyfx.ai](mailto:a.moreira@lyfx.ai)
