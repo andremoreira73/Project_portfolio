@@ -6,7 +6,9 @@ It contains a mix of all kinds of projects, without any particular order of impo
 
 
 # Andre Moreira's Data Science & Machine Learning Portfolio
-Hello there! 👋 Welcome to my project portfolio. Here, you'll find a curated selection of my data science, machine learning, and AI projects. With a background in theoretical physics and a passion for coding, I've ventured into the world of data to unlock insights, create predictive models, and offer sophisticated data analysis solutions. Together with my team, we are on the brink of launching a cutting-edge consulting service, blending scientific rigor with modern AI techniques.
+Hello there! 👋 Welcome to my project portfolio. Here, you will find a curated selection of my data science, machine learning, and AI projects. With a background in theoretical physics and a passion for coding, I have ventured into the world of data to unlock insights, create predictive models, and offer sophisticated data analysis solutions. 
+
+[lyfX](lyfx.ai): we are launching a cutting-edge consulting service, blending scientific rigor with modern AI techniques.
 
 ## Projects Overview:
 
@@ -19,11 +21,15 @@ Tools & Technologies: Python, Open Ai.
 
 🔗 [Project Link](https://github.com/andremoreira73/Project_portfolio/tree/33f3bdd09a39cf240453c6abfd16df07b0115e01/GPT-Comparison)
 
-Kaggle/Titanic
+Kaggle
 
-Description: An analysis of the Titanic dataset from Kaggle. This project explores data preprocessing, visualization, and the development of machine learning models to predict survival rates.
-Tools & Technologies: Python, Scikit-learn, Pandas, Matplotlib.
-🔗 Project Link
+Description: I put here the projects and competitions that I am playing with in Kaggle. This is a fun way to explore data preprocessing, visualization, and 
+the deployment of machine learning models.
+
+Tools & Technologies: Python, Scikit-learn, Pandas, Matplotlib, etc.
+
+🔗 [Project Link](https://github.com/andremoreira73/Project_portfolio/tree/a086f0cc5fe14fdd86e3c7e0d7e5e32de0bc2e36/Kaggle/)
+
 Pears
 
 Description: (Here, I'd recommend adding a short, intriguing description of the 'Pears' project.)
