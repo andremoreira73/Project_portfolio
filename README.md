@@ -42,9 +42,11 @@ Tools & Technologies: Python, Pandas, Matplotlib.
 
 Description: A project that delves into understanding the correlation between soil properties and agricultural yield. Utilized advanced statistical methods to draw meaningful conclusions.
 
-Tools & Technologies: Python, Pandas, Matplotlib, Statsmodels.
+Tools & Technologies: Python, Pandas, Matplotlib, etc.
 
 🔗 [Project Link](https://github.com/andremoreira73/Project_portfolio/tree/86e95a781c7869bc471382318eea9c4a04bd75c4/Soil_and_Yield)
+
+<a href="https://github.com/andremoreira73/Project_portfolio/tree/86e95a781c7869bc471382318eea9c4a04bd75c4/Soil_and_Yield" target="_blank">Example Link</a>
 
 ## 🛠 Tools & Tech Stack:
 
@@ -59,6 +61,7 @@ We are continually exploring, learning, and pushing the boundaries. Stay tuned f
 
 ## 🤝 Connect with Me:
 
-[LinkedIn](https://www.linkedin.com/in/moreiraandre/)
+![image](https://github.com/andremoreira73/Project_portfolio/assets/59141684/fdd9a748-7467-4f09-9e9a-e0e24c77179f)
+ [LinkedIn](https://www.linkedin.com/in/moreiraandre/)
 
 📧 Email: [a.moreira@lyfx.ai](mailto:a.moreira@lyfx.ai)
