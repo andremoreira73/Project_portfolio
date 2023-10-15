@@ -49,7 +49,7 @@ Tools & Technologies: Python, Pandas, Matplotlib, etc.
 - Machine Learning: Scikit-learn, PyTorch, TensorFlow
 - Visualization: Matplotlib, Seaborn
 
-## 🌱 What's Next?
+## 🌱 What is Next?
 Our vision is not just to offer consulting but to build products and drive the frontiers of data analysis forward. 
 We are continually exploring, learning, and pushing the boundaries. Stay tuned for more exciting projects and updates!
 
