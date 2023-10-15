@@ -1,10 +1,10 @@
-# 🚀 🧠 💻 Andre's Data Science & Machine Learning Portfolio 💻 🧠 🚀
+# Andre's Data Science & Machine Learning Portfolio
 
 Hello there! 👋 Welcome to my project portfolio. Here, you will find a curated selection of my data science, machine learning, and AI projects. With a background in theoretical physics and a passion for coding, I have ventured into the world of data to unlock insights, create predictive models, and offer sophisticated data analysis solutions. 
 
 [lyfX](https://www.lyfx.ai): we are launching a cutting-edge consulting service, blending scientific rigor with modern AI techniques.
 
-## 📈 Projects Overview
+## 🚀 Projects Overview
 
 ### GPT-Comparison
 
