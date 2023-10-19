@@ -5,6 +5,8 @@ In 2019, we decided to collect Haney soil test data from several farm trials. Th
 
 While the situation concerning 2 distinct datasets is not satisfactory, it is a common situation when it comes to data. Furthermore, the data can lead to important conclusions and therefore it is worth spending time and effort in bringing the data together and analyzing it.
 
+Please note that in this repository you will only see our analysis, but not the original data. It is meant for demonstration purposes only.
+
 # Summary of the results from this case study
 
 The data clearly shows that treated areas exhibit higher nutrient availability than control areas.
