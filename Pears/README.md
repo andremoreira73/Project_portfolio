@@ -1,7 +1,9 @@
 # Background
 
-Trial in Spain, following the tree development in a pear orchard. Some trees were treated with a special new product (code-named here as "NH"), others treated with a common product
-("control"). The orchard was planted in 2019, containing three different pear varieties (Ercolini, Carmen and Limonera). We measured the tree trunks in 2022, using it as an accepted proxy for
+Trial in Spain, following the tree development in a pear orchard. 
+Some trees were treated with a special new product, others treated with a common product
+("control"). The orchard was planted in 2019, containing three different pear varieties 
+(Ercolini, Carmen and Limonera). We measured the tree trunks in 2022, using it as an accepted proxy for
 tree development and health.
 
 Please note that in this repository you will only see our analysis, but not the original data. It is meant for demonstration purposes only.
