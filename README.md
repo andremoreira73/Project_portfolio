@@ -50,7 +50,7 @@ Tools & Technologies: Python, Pandas, Matplotlib, etc.
 
 ## 🛠 Tools & Tech Stack:
 
-- Languages: Python, SQL
+- Languages: Python, SQL, SPARQL
 - Data Manipulation & Analysis: Pandas, Numpy
 - Machine Learning: Scikit-learn, PyTorch, TensorFlow
 - Visualization: Matplotlib, Seaborn
