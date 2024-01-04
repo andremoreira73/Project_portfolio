@@ -1,8 +1,14 @@
 # Andre's Data Science & Machine Learning Portfolio
 
-Hello there! 👋 Welcome to my project portfolio. Here, you will find a curated selection of my data science, machine learning, and AI projects. With a background in theoretical physics and a passion for coding, I have ventured into the world of data to unlock insights, create predictive models, and offer sophisticated data analysis solutions. 
+Hello there! 👋 Welcome to a sample of my project portfolio. 
 
-[lyfX](https://www.lyfx.ai): we are launching a cutting-edge consulting service, blending scientific rigor with modern AI techniques.
+With a background in theoretical physics and a passion for coding, I have ventured into the world of data to unlock insights, create predictive models, and offer sophisticated data analysis solutions.
+
+I have several private projects that, for confidentiality reasons, I cannot showcase in a public repository.
+Here you will find a small selection of data science, machine learning, and AI projects. While some of the raw data is not available
+in the repository, if you wish to have access to it, let me know.
+
+[lyfX.ai](https://www.lyfx.ai): we are launching a cutting-edge consulting service, blending scientific rigor with modern AI techniques.
 
 ## 🚀 Projects Overview
 
