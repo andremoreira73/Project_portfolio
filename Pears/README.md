@@ -9,5 +9,7 @@ Please note that in this repository you will only see our analysis, but not the 
 # Summary of the results from this case study
 
 - The variety Ercolini (ER) reacts strongly to the treatment.
-- The variety Carmen (CA) reacts to the treatment, however the difference between the samples is not statistically significant.
-- Finally, the variety Limonera (LI) does not show in this period any reaction to the treatment.
+- The varieties Carmen (CA) and Limonera (LI) show a 
+weaker reaction to the treatment.
+- We looked into several different dimensions of this trial using Seaborn and 
+scipy statistical package.
