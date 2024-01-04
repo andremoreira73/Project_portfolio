@@ -13,3 +13,5 @@ Please note that in this repository you will only see our analysis, but not the 
 weaker reaction to the treatment.
 - We looked into several different dimensions of this trial using Seaborn and 
 scipy statistical package.
+
+Contact me (a.moreira@lyfx.ai) if you wish to discuss this analysis.
