@@ -1,20 +1,28 @@
 # Background
 
+In 2019, a company producing a novel soil enhancement product initiated a comprehensive data collection project gathering Haney soil test results from multiple farm trials comparing soils treated with the product versus untreated soils. This data was compiled into a dataset (designated as "Haney_raw_data.csv"). Concurrently, it conducted a larger-scale systematic collection of crop yield results from trials. This resulted in two distinct but partially overlapping databases: one capturing soil treatment effects, and another documenting plant response through yield measurements.
 
-In 2019, we decided to collect Haney soil test data from several farm trials. This data was compiled in a dataset (here called "Haney_raw_data.csv"). In parallel to this dataset, we systematically collected, on a much larger scale, trial yields results. In other words, we had 2 distinct but overlapping databases with important data - one on NOVIHUM's effect on the soil, another with effect on the plant (using yield as a proxy).
+While maintaining separate datasets is not ideal, this scenario reflects common challenges in agricultural data management. Given the potential insights these datasets could provide, I undertook the task of integrating and analyzing the combined data.
 
-While the situation concerning 2 distinct datasets is not satisfactory, it is a common situation when it comes to data. Furthermore, the data can lead to important conclusions and therefore it is worth spending time and effort in bringing the data together and analyzing it.
+**Note:** This repository contains only the analysis methodology and results. Original datasets are not included due to proprietary constraints but serve as a demonstration of analytical approaches for agricultural data.
 
-Please note that in this repository you will only see our analysis, but not the original data. It is meant for demonstration purposes only.
+# Key Findings
 
-# Summary of the results from this case study
+The integrated analysis revealed significant patterns in soil nutrient dynamics and crop performance following product application:
 
-The data clearly shows that treated areas exhibit higher nutrient availability than control areas.
+## Nutrient Availability
 
-The meta-analysis of the yield differences between treated and untreated areas across 891 trials shows:
+The data demonstrates that product-treated areas consistently exhibit enhanced nutrient availability compared to control areas.
 
-- An average yield increase of the treated sites of 21% versus control;
-- A median yield increase of 9%;
-- Win rate of 75%.
-- Higher nutrient availability is not necessarily reflected in higher yields, as nutrients may be naturally or through fertilization already abundant enough. However in some cases the data shows a clear relationship between high yields and higher availability in treated areas.
-- This data is the starting point of a deeper analysis (including collecting more data) that is necessary to clarify any further agronomic efects.
+## Yield Impact Analysis
+
+A comprehensive meta-analysis across 891 trials revealed:
+
+- **Average yield increase:** 21% in treated versus control areas
+- **Median yield increase:** 9%
+- **Success rate:** 75% of trials showed positive results
+- **Nutrient-yield relationship:** While higher nutrient availability does not automatically translate to increased yields (particularly in already nutrient-rich environments), the data identifies specific conditions where enhanced nutrient availability strongly correlates with yield improvements
+
+## Future Directions
+
+These findings establish a foundation for deeper investigation. Additional data collection and analysis are necessary to fully characterize the mechanisms underlying the product's effects and optimize application strategies for various soil types and crop conditions.
