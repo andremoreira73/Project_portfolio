@@ -8,9 +8,13 @@ This repository showcases a small curated selection of my projects. While my mos
 
 **Note:** Some datasets may be excluded from here for size reasons but are available upon request.
 
+---
+
 ## Current Venture
 
 I co-founded [**lyfX.ai**](https://www.lyfx.ai) - we help organizations in the process industries - such as chemicals, fertilizer, and energy - integrate Data and AI solutions that address their business challenges and deliver measurable results.
+
+---
 
 ## Featured Projects
 
@@ -26,8 +30,6 @@ A systematic analysis comparing OpenAI's GPT-3.5 and GPT-4 capabilities using un
 
 🔗 [View Project](https://github.com/andremoreira73/Project_portfolio/tree/33f3bdd09a39cf240453c6abfd16df07b0115e01/GPT-Comparison)
 
----
-
 ### Agricultural Trial Analysis - Pears
 
 A demonstration of how simple statistical analysis can yield powerful insights in agricultural research. This project showcases my approach to extracting maximum value from limited trial data through careful statistical methodology.
@@ -39,8 +41,6 @@ A demonstration of how simple statistical analysis can yield powerful insights i
 - Example of translating complex analysis into actionable business insights
 
 🔗 [View Project](https://github.com/andremoreira73/Project_portfolio/blob/86e95a781c7869bc471382318eea9c4a04bd75c4/Pears/README.md)
-
----
 
 ### Soil Properties & Agricultural Yield Prediction
 
@@ -54,6 +54,8 @@ An in-depth analysis exploring the complex relationships between soil characteri
 - Business case: optimizing fertilizer use and crop selection
 
 🔗 [View Project](https://github.com/andremoreira73/Project_portfolio/tree/86e95a781c7869bc471382318eea9c4a04bd75c4/Soil_and_Yield)
+
+---
 
 ## Contact
 
