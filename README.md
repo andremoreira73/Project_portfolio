@@ -1,6 +1,6 @@
 # Andre's Data & AI Public Portfolio
 
-👋 Welcome!
+👋 **Welcome!**
 
 I am a theoretical physicist by training who spent a significant part of my career in business. In the past years, I have turned my attention to data science, AI, and machine learning, with a focus on applying these technologies to real-world use cases. My work combines rigorous analytical thinking, pragmatic business insights, and modern machine learning and AI techniques.
 
@@ -8,55 +8,56 @@ This repository showcases a small curated selection of my projects. While my mos
 
 **Note:** Some datasets may be excluded from here for size reasons but are available upon request.
 
-**lyfX.ai**
+## 🚀 Current Venture
 
-I co-founded [lyfX.ai](https://www.lyfx.ai) - we help organizations in the process industries — such as chemicals, fertilizer, and energy — integrate Data and AI solutions that address their business challenges and deliver measurable results.
+I co-founded [**lyfX.ai**](https://www.lyfx.ai) - we help organizations in the process industries - such as chemicals, fertilizer, and energy - integrate Data and AI solutions that address their business challenges and deliver measurable results.
 
-## Overview
+## 📊 Featured Projects
 
-### GPT-Comparison
+### 🤖 GPT Model Comparison Study (2023)
 
-Description: A deep dive into the GPT (Generative Pre-trained Transformer) model to understand its nuances, strengths, and weaknesses.
-I compare OPen Ai GPT 3.5 and GPT 4 using a set of university-level questions and answers.
+A systematic analysis comparing OpenAI's GPT-3.5 and GPT-4 capabilities using university-level academic questions across multiple disciplines. This early comparative study provided insights into model performance differences and practical implications for educational and professional applications.
 
-Tools & Technologies: Python, Open Ai.
+**Key Highlights:**
 
-🔗 [Project Link](https://github.com/andremoreira73/Project_portfolio/tree/33f3bdd09a39cf240453c6abfd16df07b0115e01/GPT-Comparison)
+- Quantitative performance analysis across different knowledge domains
+- Practical insights for model selection in real-world applications
+- Early exploration of LLM capabilities (conducted when these models were newly released)
 
-🔗 [Project Link](https://github.com/andremoreira73/Project_portfolio/tree/a086f0cc5fe14fdd86e3c7e0d7e5e32de0bc2e36/Kaggle/)
+🔗 [View Project](https://github.com/andremoreira73/Project_portfolio/tree/33f3bdd09a39cf240453c6abfd16df07b0115e01/GPT-Comparison)
 
-### Pears
+---
 
-Description: Example of a simple statistical analysis that I did for a agronomical trial.
-Simple and powerful results.
+### 🍐 Agricultural Trial Analysis - Pears
 
-Tools & Technologies: Python, Pandas, Matplotlib.
+A demonstration of how simple statistical analysis can yield powerful insights in agricultural research. This project showcases my approach to extracting maximum value from limited trial data through careful statistical methodology.
 
-🔗 [Project Link](https://github.com/andremoreira73/Project_portfolio/blob/86e95a781c7869bc471382318eea9c4a04bd75c4/Pears/README.md)
+**Key Highlights:**
 
-### Soil_and_Yield
+- Clean, interpretable visualizations for non-technical stakeholders
+- Statistical significance testing with practical recommendations
+- Example of translating complex analysis into actionable business insights
 
-Description: A project that delves into understanding the correlation between soil properties and agricultural yield.
-Utilized advanced statistical methods to draw meaningful conclusions.
+🔗 [View Project](https://github.com/andremoreira73/Project_portfolio/blob/86e95a781c7869bc471382318eea9c4a04bd75c4/Pears/README.md)
 
-Tools & Technologies: Python, Pandas, Matplotlib, etc.
+---
 
-🔗 [Project Link](https://github.com/andremoreira73/Project_portfolio/tree/86e95a781c7869bc471382318eea9c4a04bd75c4/Soil_and_Yield)
+### 🌾 Soil Properties & Agricultural Yield Prediction
 
-## 🛠 Tools & Tech Stack:
+An in-depth analysis exploring the complex relationships between soil characteristics and crop yields. This project demonstrates advanced statistical methods applied to agricultural data, with a focus on building predictive models for yield optimization.
 
-- Languages: Python, SQL, SPARQL
-- Data Manipulation & Analysis: Pandas, Numpy
-- Machine Learning: Scikit-learn, PyTorch, TensorFlow
-- Visualization: Matplotlib, Seaborn
+**Key Highlights:**
 
-## 🌱 What is Next?
+- Multi-variate analysis of soil-yield relationships
+- Feature engineering for agricultural data
+- Predictive modeling with practical applications for farmers
+- Business case: optimizing fertilizer use and crop selection
 
-Our vision is not just to offer consulting but to build products and drive the frontiers of data analysis forward.
-We are continually exploring, learning, and pushing the boundaries. Stay tuned for more exciting projects and updates!
+🔗 [View Project](https://github.com/andremoreira73/Project_portfolio/tree/86e95a781c7869bc471382318eea9c4a04bd75c4/Soil_and_Yield)
 
-## 🤝 Connect with Me:
+## 🤝 Let's Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/moreiraandre/)
+I'm always interested in discussing data science applications in industry, particularly in process optimization and agricultural technology.
 
+🔗 [LinkedIn](https://www.linkedin.com/in/moreiraandre/)  
 📧 [a.moreira@lyfx.ai](mailto:a.moreira@lyfx.ai)
