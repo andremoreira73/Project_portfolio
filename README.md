@@ -8,13 +8,13 @@ This repository showcases a small curated selection of my projects. While my mos
 
 **Note:** Some datasets may be excluded from here for size reasons but are available upon request.
 
-## 🚀 Current Venture
+## Current Venture
 
 I co-founded [**lyfX.ai**](https://www.lyfx.ai) - we help organizations in the process industries - such as chemicals, fertilizer, and energy - integrate Data and AI solutions that address their business challenges and deliver measurable results.
 
-## 📊 Featured Projects
+## Featured Projects
 
-### 🤖 GPT Model Comparison Study (2023)
+### GPT Model Comparison Study (2023)
 
 A systematic analysis comparing OpenAI's GPT-3.5 and GPT-4 capabilities using university-level academic questions across multiple disciplines. This early comparative study provided insights into model performance differences and practical implications for educational and professional applications.
 
@@ -28,7 +28,7 @@ A systematic analysis comparing OpenAI's GPT-3.5 and GPT-4 capabilities using un
 
 ---
 
-### 🍐 Agricultural Trial Analysis - Pears
+### Agricultural Trial Analysis - Pears
 
 A demonstration of how simple statistical analysis can yield powerful insights in agricultural research. This project showcases my approach to extracting maximum value from limited trial data through careful statistical methodology.
 
@@ -42,7 +42,7 @@ A demonstration of how simple statistical analysis can yield powerful insights i
 
 ---
 
-### 🌾 Soil Properties & Agricultural Yield Prediction
+### Soil Properties & Agricultural Yield Prediction
 
 An in-depth analysis exploring the complex relationships between soil characteristics and crop yields. This project demonstrates advanced statistical methods applied to agricultural data, with a focus on building predictive models for yield optimization.
 
@@ -55,9 +55,9 @@ An in-depth analysis exploring the complex relationships between soil characteri
 
 🔗 [View Project](https://github.com/andremoreira73/Project_portfolio/tree/86e95a781c7869bc471382318eea9c4a04bd75c4/Soil_and_Yield)
 
-## 🤝 Let's Connect
+## Contact
 
-I'm always interested in discussing data science applications in industry, particularly in process optimization and agricultural technology.
+I am always interested in discussing data science applications in industry, particularly in process optimization and agricultural technology.
 
 🔗 [LinkedIn](https://www.linkedin.com/in/moreiraandre/)  
 📧 [a.moreira@lyfx.ai](mailto:a.moreira@lyfx.ai)
