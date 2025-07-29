@@ -57,9 +57,23 @@ An in-depth analysis exploring the complex relationships between soil characteri
 
 ---
 
-## Contact
+## Contributing
 
-I am always interested in discussing data science applications in industry, particularly in process optimization and agricultural technology.
+Feel free to submit pull requests with your own tested prompts and techniques! Please follow the existing format and include:
 
-🔗 [LinkedIn](https://www.linkedin.com/in/moreiraandre/)  
-📧 [a.moreira@lyfx.ai](mailto:a.moreira@lyfx.ai)
+- Clear description of the prompt's purpose
+- Usage instructions
+- Example inputs/outputs where applicable
+
+## License
+
+- **Code/Prompts**: Licensed under **Apache-2.0**. See `LICENSE`.
+- **Sample data** (files under `data/` or otherwise marked): **CC BY 4.0**. See `data_license/LICENSE`.
+
+If you contribute, you agree that your contributions are licensed under the same terms.
+
+## Author
+
+Andre Moreira  
+[LinkedIn](https://www.linkedin.com/in/moreiraandre/)  
+📧 a.moreira@lyfx.ai
